@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417813059225",
+    "firebase_url": "https://social-media-93afa-default-rtdb.firebaseio.com",
+    "project_id": "social-media-93afa",
+    "storage_bucket": "social-media-93afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417813059225:android:ffb462d0aff1a461c94a08",
+        "android_client_info": {
+          "package_name": "com.training.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417813059225-8rk2qlbprh3v9j79i89hndf9op2t5fi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCER7Su6Foto9xVdJvlr9EcRi-OK6H80GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417813059225-8rk2qlbprh3v9j79i89hndf9op2t5fi3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417813059225-frktotqfb2qtcd6b0p8llh9qmindqglj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sessions.galleryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
